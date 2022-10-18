@@ -1,13 +1,15 @@
 {
   "name": "hiwkhaw",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.2",
+  "description": "บาคาร่าเว็บตรง ดูแลดีดุจญาติมิตรตลอดทั่วทั้ง 24 ชั่วโมง",
   "keywords": [
-    "syntax",
-    "theme"
+  "บาคาร่าเว็บตรง",
+  "บาคาร่าสูตร",
+  "บาคาร่าทดลอง",
+  "บาคาร่าเว็บไหนดี",
   ],
-  "repository": "https://github.com/atom/hiwkhaw",
+  "repository": "https://github.com/humtoom/hiwkhaw",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
